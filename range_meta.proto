@@ -8,4 +8,5 @@ message RangeMeta{
   string end = 5;
   uint32 endOffset = 6;
   string text = 7;
+  string option = 8;
 }
